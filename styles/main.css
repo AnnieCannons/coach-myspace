@@ -1,0 +1,73 @@
+body{
+    background-color: #2978A0;
+    margin:0px;
+    color:#C8E6EE;
+    background: url(http://weknowyourdreams.com/images/sunset/sunset-04.jpg);
+    background-size: 150%;
+}
+
+#navbar{
+    background-color: #005555;
+    height: 70px; 
+    margin-bottom:30px;
+}
+
+#navbar ul{
+    margin-top:0px;
+    text-align: center;
+}
+
+#navbar ul li{
+    display:inline;
+    margin: 2em;
+    font-size:30px;
+    line-height: 70px;
+}
+
+#profile{
+    padding: 20px;
+    width: 60%;
+    margin:auto;
+    border: 2px solid black;
+    background-color: #2978A0;
+}
+
+#profile-photo {
+    width: 30%;
+    border: 10px solid black;
+    float:left;
+    margin-bottom: 10px;
+}
+
+.info{
+    width: 40%;
+    padding: 5px;
+    border: 2px black solid;
+    margin: 10px;
+    float:left;
+}
+
+table {
+    clear:both;
+    margin: 10px;
+}
+
+#gallery-images img{
+    width:20%;
+    border: black 4px solid;
+}
+
+#form {
+    margin-top:20px;
+    text-align:center;
+}
+
+
+
+
+/*overflow: hidden;
+height: 100px;*/
+
+
+
+    /*code challenge http://codepen.io/LHack/pen/XjVxkp*/
