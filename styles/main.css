@@ -22,6 +22,18 @@ body{
     margin: 2em;
     font-size:30px;
     line-height: 70px;
+    color: pink;
+    text-decoration: none;
+}
+
+#navbar ul li a{
+    color: pink;
+    text-decoration: none;
+}
+
+#navbar ul li a:hover{
+    color: lightblue;
+    text-decoration: underline;
 }
 
 #profile{
