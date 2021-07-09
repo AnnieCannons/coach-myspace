@@ -47,7 +47,7 @@ body{
 #profile-photo {
     width: 30%;
     border: 10px solid black;
-    float:left;
+    /* float:left; */
     margin-bottom: 10px;
 }
 
@@ -56,11 +56,11 @@ body{
     padding: 5px;
     border: 2px black solid;
     margin: 10px;
-    float:left;
+    /* float:left; */
 }
 
 table {
-    clear:both;
+    /* clear:both; */
     margin: 10px;
 }
 
