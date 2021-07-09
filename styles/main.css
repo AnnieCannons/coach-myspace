@@ -2,7 +2,9 @@ body{
     background-color: #2978A0;
     margin:0px;
     color:#C8E6EE;
-    background: url(http://weknowyourdreams.com/images/sunset/sunset-04.jpg);
+    background: url("../images/sunset-04.jpg");
+/*     url link not working */
+/*     background: url("http://weknowyourdreams.com/images/sunset/sunset-04.jpg"); */
     background-size: 150%;
 }
 
